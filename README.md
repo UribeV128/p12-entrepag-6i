@@ -20,8 +20,9 @@ samples, guidance on mobile development, and a full API reference.
 
  #fuentes
  https://flutlab.io/docs
+![image](https://github.com/UribeV128/p12-entrepag-6i/assets/143779478/6deab5de-bf4b-46f6-9434-f6609227c0c4)
+![image](https://github.com/UribeV128/p12-entrepag-6i/assets/143779478/197909bf-bea5-4c63-8b21-5bb8cfb39242)
 
- ![image](https://github.com/UribeV128/p12-entrepag-6i/assets/143779478/8ac9ca82-448b-4a99-a26c-a0c69006299e)
- ![image](https://github.com/UribeV128/p12-entrepag-6i/assets/143779478/90496e54-1c0f-452c-8ae2-5ff9014a3658)
+
 
 
